@@ -9,5 +9,4 @@ class DonutAppBackendApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
